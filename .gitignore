@@ -1,10 +1,10 @@
 # build output directories
-bin/
-obj/
+/bin
+/obj
 
 # user specific settings
-.vs/
-.vscode/
+/.vs
+/.vscode
 
 # ASP.NET Core
 project.lock.json
@@ -17,7 +17,7 @@ project.fragment.lock.json
 *.swp
 
 # Rider settings folder
-.idea/
+/.idea
 
 # .NET Core global tools
 global.json
