@@ -1,0 +1,26 @@
+# build output directories
+bin/
+obj/
+
+# user specific settings
+.vs/
+.vscode/
+
+# ASP.NET Core
+project.lock.json
+project.fragment.lock.json
+
+# .NET Core SDK
+.DS_Store
+*.log
+*.bak
+*.swp
+
+# Rider settings folder
+.idea/
+
+# .NET Core global tools
+global.json
+
+# Ignore web server config files
+*.config
