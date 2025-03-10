@@ -1,7 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using MoViCoPracticeProject.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+// setup the database
+builder.Services.AddDbContext<ExpensesDbContext>(options => options.UseInMemoryDatabase("ExpensesDb"));
 
 var app = builder.Build();
 
