@@ -95,3 +95,4 @@
 /Users/ignacio/Code/Projects/mvc-web-dev-project/MoViCoPracticeProject/obj/Debug/net9.0/MoViCoPracticeProject.pdb
 /Users/ignacio/Code/Projects/mvc-web-dev-project/MoViCoPracticeProject/obj/Debug/net9.0/MoViCoPracticeProject.genruntimeconfig.cache
 /Users/ignacio/Code/Projects/mvc-web-dev-project/MoViCoPracticeProject/obj/Debug/net9.0/ref/MoViCoPracticeProject.dll
+/Users/ignacio/Code/Projects/mvc-web-dev-project/MoViCoPracticeProject/obj/Debug/net9.0/MoViCoPracticeProject.sourcelink.json
